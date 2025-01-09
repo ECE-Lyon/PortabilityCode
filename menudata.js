@@ -25,7 +25,7 @@
 var menudata={children:[
 {text:"Page principale",url:"index.html"},
 {text:"Pages associées",url:"pages.html"},
-{text:"Topics",url:"topics.html"},
+{text:"Modules",url:"modules.html"},
 {text:"Fichiers",url:"files.html",children:[
 {text:"Liste des fichiers",url:"files.html"},
 {text:"Variables globale",url:"globals.html",children:[
