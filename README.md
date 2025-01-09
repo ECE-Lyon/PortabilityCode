@@ -1,14 +1,12 @@
-PortabilityCode
-===============
+# PortabilityCode
 
 Fonctions portables à destination des ING1 de l'ECE.
 
-# TODO
+## TODO
 
-- [ ] Trouver une license adéquate !
+- [ ] Trouver une license adéquate !
 
-
-# Done
+## Done
 
 - [x] system() wrapper
 - [x] fflush(stdin) wrapper

@@ -4,4 +4,6 @@
 libportab_test
 *.sw?
 *.zip
-html/
+html
+cmake-build-*
+.idea
