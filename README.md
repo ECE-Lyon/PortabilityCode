@@ -5,6 +5,7 @@ Fonctions portables à destination des ING1 de l'ECE.
 ## TODO
 
 - [ ] Trouver une license adéquate !
+- [ ] Effacer console
 
 ## Done
 
